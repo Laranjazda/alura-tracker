@@ -16,6 +16,7 @@
         <input class="input" type="password" placeholder="Password" />
         <span class="icon is-small is-left">
           <i class="fas fa-lock"></i>
+          
         </span>
       </p>
     </div>
